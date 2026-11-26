@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **MOVIDO A DRAKES-SUITES (ARCHIVADO):** Este repositorio ha sido consolidado dentro de [`SlimefunNewHorizons/Drakes-Suites`](https://github.com/SlimefunNewHorizons/Drakes-Suites) en el módulo **`drakes-utility`** (`com.drakescraft.suites.utility.dyebench.DyeBenchModule`). Los builds independientes y workflows han sido retirados conforme al estándar arquitectónico StarSuites.
+
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/SlimefunNewHorizons/DyeBench-drake/main/banner.svg" alt="DyeBench-drake Banner" width="920" />
